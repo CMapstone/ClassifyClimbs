@@ -1,6 +1,6 @@
 # Climb Classifier
 
-This repository contains code to run the model in[RunModel.py](RunModel.py) and code to fine tune a model in [FineTuneModel.py](FineTuneModel.py).
+This repository contains code to run the model in [RunModel.py](RunModel.py) and code to fine tune a model in [FineTuneModel.py](FineTuneModel.py).
 
 ## Fine tuning model
 
