@@ -2,13 +2,13 @@ fine_tune_model:
   # The folder with raw input data for training.
   input_folder: 'Data/train'
   # The folder the output model will be saved in.
-  model_output_folder: 'models/llm_modeltestv3'
+  model_output_folder: 'models/ClimbClassifier'
   
 run_model:
   # Input folder containing the images to be used for predictions in the subfolders.
-  model_input_folder: 'models/llm_modeltestv3'
+  model_input_folder: 'models/ClimbClassifier'
   # Set stage to be required developmental stage. This must match a subfolder in the input folder 
   # above.
-  climb_comments: ['no gear','well protected', 'safe']
+  climb_comments: ['There was very little gear on this climb','Well protected', 'Fun climb and very safe']
   
   
