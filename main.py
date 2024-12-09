@@ -28,8 +28,8 @@ if __name__=='__main__':
 
     config = read_config()
     # Set the tasks you want to run to 'True' and leave the others as 'False'.
-    run_model = True
     fine_tune_model = True
+    run_model = True
 
     run_main( run_model, fine_tune_model, config)
 
